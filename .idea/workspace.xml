@@ -1,7 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b84dcff-2708-4ae8-998c-8e72c3809170" name="Default Changelist" comment="" />
+    <list default="true" id="1b84dcff-2708-4ae8-998c-8e72c3809170" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/customer-demo/src/main/java/com/client/UserClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-demo/src/main/java/com/client/UserFallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-demo/target/classes/com/client/UserClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-demo/target/classes/com/client/UserFallback.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-demo/target/customer-demo-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-demo/target/customer-demo-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-demo/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-demo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-demo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-demo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server/target/eureka-server-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server/target/eureka-server-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/target/user-service-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/target/user-service-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-demo/src/main/java/com/GatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-demo/src/main/java/com/filter/MyZuulFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-demo/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-demo/target/classes/META-INF/zuul-demo.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-demo/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-demo/target/classes/com/GatewayApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-demo/target/classes/com/filter/MyZuulFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/customer-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-demo/src/main/java/com/CustomerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-demo/src/main/java/com/CustomerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-demo/src/main/java/com/comtroller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-demo/src/main/java/com/comtroller/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-demo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/customer-demo/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-demo/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/customer-demo/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-demo/target/classes/com/CustomerApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/customer-demo/target/classes/com/CustomerApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-demo/target/classes/com/comtroller/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/customer-demo/target/classes/com/comtroller/CustomerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/com/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/com/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/target/classes/com/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/target/classes/com/controller/UserController.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,12 +70,21 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\svn_workspace02\Spring_cloud01\.idea" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -39,13 +94,16 @@
     </option>
   </component>
   <component name="ProjectId" id="1VVBVaHP7YOcAnwDn7REoztcNa5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -63,8 +121,12 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\svn_workspace02\Spring_cloud01\eureka-server\src\main\java\com\com" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\svn_workspace02\Spring_cloud01\customer-demo\src\main\java" />
       <recent name="D:\svn_workspace02\Spring_cloud01\user-service\src\main\resources" />
@@ -74,8 +136,8 @@
       <recent name="com.pojo" />
       <recent name="com" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\svn_workspace02\Spring_cloud01\eureka-server\src\main\java\com\com" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.comtroller" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -85,7 +147,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.UserApplication (1)">
+  <component name="RunManager" selected="Spring Boot.GatewayApplication">
     <configuration name="CustomerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.CustomerApplication" />
       <module name="customer-demo" />
@@ -127,10 +189,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="user-service" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.UserApplication" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="zuul-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.GatewayApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -148,10 +215,11 @@
       <item itemvalue="Spring Boot.CustomerApplication" />
       <item itemvalue="Spring Boot.EurekaApplication" />
       <item itemvalue="Spring Boot.UserApplication" />
-      <item itemvalue="Spring Boot.UserApplication (1)" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.GatewayApplication" />
         <item itemvalue="Application.UserApplication" />
         <item itemvalue="Application.CustomerApplication" />
       </list>
@@ -161,7 +229,7 @@
     <option name="viewStates">
       <list>
         <serviceView>
-          <option name="contentProportion" value="0.17486338" />
+          <option name="contentProportion" value="0.26619434" />
           <treeState>
             <expand>
               <path>
@@ -196,74 +264,125 @@
       <option name="presentableId" value="Default" />
       <updated>1577328406716</updated>
       <workItem from="1577328410209" duration="17754000" />
-      <workItem from="1577347802395" duration="6327000" />
+      <workItem from="1577347802395" duration="8249000" />
+      <workItem from="1577410438300" duration="4399000" />
+      <workItem from="1577417088365" duration="306000" />
+      <workItem from="1577417411322" duration="525000" />
+      <workItem from="1577417961663" duration="3046000" />
+      <workItem from="1577425361209" duration="517000" />
+      <workItem from="1577425919562" duration="206000" />
+      <workItem from="1577426157476" duration="9069000" />
+      <workItem from="1577440414140" duration="284000" />
+      <workItem from="1577440768900" duration="245000" />
+      <workItem from="1577441168260" duration="3824000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次提交SpringCloud">
+      <created>1577359645200</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577359645200</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="第一次提交SpringCloud" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交SpringCloud" />
   </component>
   <component name="WindowStateProjectService">
     <state x="602" y="104" key="#CustomerApplication_(1)" timestamp="1577349912216">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="602" y="104" key="#CustomerApplication_(1)/0.0.1536.834@0.0.1536.834" timestamp="1577349912216" />
-    <state x="195" y="82" key="#Project_Structure" timestamp="1577348690739">
+    <state x="195" y="82" key="#Project_Structure" timestamp="1577439928197">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="195" y="82" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1577348690739" />
+    <state x="195" y="82" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1577439928197" />
     <state x="381" y="101" width="1155" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577352512149">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="381" y="101" width="1155" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1577352512149" />
-    <state x="792" y="182" key="FileChooserDialogImpl" timestamp="1577359535179">
+    <state x="833" y="108" key="#com.intellij.ide.util.MemberChooser" timestamp="1577443747001">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="792" y="182" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1577359535179" />
-    <state width="1207" height="373" key="GridCell.Tab.0.bottom" timestamp="1577352597381">
+    <state x="833" y="108" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1577443747001" />
+    <state x="829" y="275" width="429" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1577438522209">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1207" height="373" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1577352597381" />
-    <state width="1207" height="373" key="GridCell.Tab.0.center" timestamp="1577352597381">
+    <state x="829" y="275" width="429" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834@0.0.1536.834" timestamp="1577438522209" />
+    <state x="699" y="170" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577416641761">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1207" height="373" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1577352597381" />
-    <state width="1207" height="373" key="GridCell.Tab.0.left" timestamp="1577352597381">
+    <state x="699" y="170" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1577416641761" />
+    <state x="279" y="26" key="CommitChangelistDialog2" timestamp="1577359643247">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1207" height="373" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1577352597381" />
-    <state width="1207" height="373" key="GridCell.Tab.0.right" timestamp="1577352597381">
+    <state x="279" y="26" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1577359643247" />
+    <state x="792" y="182" key="FileChooserDialogImpl" timestamp="1577444975030">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1207" height="373" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1577352597381" />
-    <state width="1207" height="373" key="GridCell.Tab.1.bottom" timestamp="1577352597381">
+    <state x="792" y="182" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1577444975030" />
+    <state width="725" height="256" key="GridCell.Tab.0.bottom" timestamp="1577444835551">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1207" height="373" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1577352597381" />
-    <state width="1207" height="373" key="GridCell.Tab.1.center" timestamp="1577352597381">
+    <state width="725" height="256" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1577444835551" />
+    <state width="725" height="256" key="GridCell.Tab.0.center" timestamp="1577444835551">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1207" height="373" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1577352597381" />
-    <state width="1207" height="373" key="GridCell.Tab.1.left" timestamp="1577352597381">
+    <state width="725" height="256" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1577444835551" />
+    <state width="725" height="256" key="GridCell.Tab.0.left" timestamp="1577444835551">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1207" height="373" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1577352597381" />
-    <state width="1207" height="373" key="GridCell.Tab.1.right" timestamp="1577352597381">
+    <state width="725" height="256" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1577444835551" />
+    <state width="725" height="256" key="GridCell.Tab.0.right" timestamp="1577444835551">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1207" height="373" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1577352597381" />
-    <state x="500" y="245" key="com.intellij.ide.util.TipDialog" timestamp="1577347801480">
+    <state width="725" height="256" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1577444835551" />
+    <state width="725" height="256" key="GridCell.Tab.1.bottom" timestamp="1577444835551">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="500" y="245" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1577347801480" />
-    <state x="323" y="156" width="889" height="566" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1577346304794">
+    <state width="725" height="256" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1577444835551" />
+    <state width="725" height="256" key="GridCell.Tab.1.center" timestamp="1577444835551">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="323" y="156" width="889" height="566" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834@0.0.1536.834" timestamp="1577346304794" />
-    <state x="0" y="127" key="new project wizard" timestamp="1577339928649">
+    <state width="725" height="256" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1577444835551" />
+    <state width="725" height="256" key="GridCell.Tab.1.left" timestamp="1577444835551">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="0" y="127" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1577339928649" />
+    <state width="725" height="256" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1577444835551" />
+    <state width="725" height="256" key="GridCell.Tab.1.right" timestamp="1577444835551">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="725" height="256" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1577444835551" />
+    <state x="499" y="78" key="Maven.ArtifactSearchDialog" timestamp="1577416203959">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="78" key="Maven.ArtifactSearchDialog/0.0.1536.834@0.0.1536.834" timestamp="1577416203959" />
+    <state x="272" y="62" key="SettingsEditor" timestamp="1577441242720">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="272" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1577441242720" />
+    <state x="316" y="165" key="Vcs.Push.Dialog.v2" timestamp="1577359649100">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="316" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1577359649100" />
+    <state x="500" y="245" key="com.intellij.ide.util.TipDialog" timestamp="1577441166916">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="500" y="245" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1577441166916" />
+    <state x="323" y="156" width="889" height="566" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1577441586738">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="323" y="156" width="889" height="566" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834@0.0.1536.834" timestamp="1577441586738" />
+    <state x="94" y="126" key="new project wizard" timestamp="1577437414207">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="94" y="126" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1577437414207" />
     <state x="416" y="369" width="672" height="677" key="run.anything.popup" timestamp="1577351929970">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

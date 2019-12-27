@@ -10,8 +10,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>eureka-server</artifactId>
+<!--    <dependencies>
+        &lt;!&ndash;eureka依赖，服务器端&ndash;&gt;
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>
+        </dependency>
+    </dependencies>-->
     <dependencies>
-        <!--eureka依赖，服务器端-->
+
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>

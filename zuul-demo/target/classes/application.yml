@@ -1,0 +1,48 @@
+server:
+  port: 10010
+spring:
+  application:
+    name: gateway
+#zuul:
+#  routes:
+#    user-service: # 这里是路由id，随意写
+#      path: /user-service/** # 这里是映射路径
+#      url: http://127.0.0.1:9999 # 映射路径对应的实际url地址
+
+#day0306 http://localhost:10010/user-service匹配
+#day0306 http://localhost:10010/user-service/user/1
+#day0306 http://127.0.0.1:8081/user/1
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:10086/eureka
+    registry-fetch-interval-seconds: 5 # 获取服务列表的周期：5s
+  instance:
+    prefer-ip-address: true # 当调用getHostname获取实例的hostname时，返回ip而不是host名称
+    ip-address: 127.0.0.1 # 指定自己的ip信息，不指定的话会自己寻找
+#zuul:
+#  routes:
+#    user-service: # 这里是路由id，随意写
+#      path: /user-service/** # 这里是映射路径
+#      serviceId: user-service # 指定服务名称
+#      #      http://localhost:10010/user-service/user/1
+#      #      http://user-service/user/1
+#      #      http://localhost:9999/user/1
+#zuul:
+#  routes:
+#    user-service: /user-service/** # 这里是映射路径
+#    #    路由名称往往和 服务名会写成一样的，简化的路由配置
+#    ignored-services:
+#      - consumer-service  #不暴露服务
+zuul:
+  prefix: /api
+  routes:
+    user-service:
+      path: /user/**
+      serviceId: user-service
+      strip-prefix: false #不截取/user
+#http://localhost:10010/user/2
+#http://localhost:9999/user/2
+# http://localhost:10010/user/1
+# http://localhost:10010/api/user/1
+

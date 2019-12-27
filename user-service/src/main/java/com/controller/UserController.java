@@ -19,7 +19,8 @@ public class UserController {
     private UserService userService;
 
     @GetMapping("/{id}")
-    public User queryUserById(@PathVariable("id") Long i){
+    public User queryUserById(@PathVariable("id") Long i) throws InterruptedException {
+        //Thread.sleep(4000L);
         User user=userService.queryUserById(i);
         return user;
     }
