@@ -2,51 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b84dcff-2708-4ae8-998c-8e72c3809170" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/customer-demo/src/main/java/com/client/UserClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer-demo/src/main/java/com/client/UserFallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer-demo/target/classes/com/client/UserClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer-demo/target/classes/com/client/UserFallback.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer-demo/target/customer-demo-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer-demo/target/customer-demo-1.0-SNAPSHOT.jar.original" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer-demo/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer-demo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer-demo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer-demo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/target/eureka-server-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/target/eureka-server-1.0-SNAPSHOT.jar.original" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/target/user-service-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/target/user-service-1.0-SNAPSHOT.jar.original" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuul-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuul-demo/src/main/java/com/GatewayApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuul-demo/src/main/java/com/filter/MyZuulFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuul-demo/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuul-demo/target/classes/META-INF/zuul-demo.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuul-demo/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuul-demo/target/classes/com/GatewayApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuul-demo/target/classes/com/filter/MyZuulFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/customer-demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-demo/src/main/java/com/CustomerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-demo/src/main/java/com/CustomerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-demo/src/main/java/com/comtroller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-demo/src/main/java/com/comtroller/CustomerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-demo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/customer-demo/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-demo/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/customer-demo/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-demo/target/classes/com/CustomerApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/customer-demo/target/classes/com/CustomerApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-demo/target/classes/com/comtroller/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/customer-demo/target/classes/com/comtroller/CustomerController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/com/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/com/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/target/classes/com/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/target/classes/com/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring_cloud02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring_cloud02/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +68,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Spring_cloud02" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -229,7 +186,7 @@
     <option name="viewStates">
       <list>
         <serviceView>
-          <option name="contentProportion" value="0.26619434" />
+          <option name="contentProportion" value="0.22548029" />
           <treeState>
             <expand>
               <path>
@@ -274,7 +231,7 @@
       <workItem from="1577426157476" duration="9069000" />
       <workItem from="1577440414140" duration="284000" />
       <workItem from="1577440768900" duration="245000" />
-      <workItem from="1577441168260" duration="3824000" />
+      <workItem from="1577441168260" duration="4083000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交SpringCloud">
       <created>1577359645200</created>
@@ -283,7 +240,21 @@
       <option name="project" value="LOCAL" />
       <updated>1577359645200</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第一次提交SpringCloud2">
+      <created>1577445065506</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577445065506</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第一次提交SpringCloud2">
+      <created>1577445216372</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577445216373</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,7 +263,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="第一次提交SpringCloud" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交SpringCloud" />
+    <MESSAGE value="第一次提交SpringCloud2" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交SpringCloud2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="602" y="104" key="#CustomerApplication_(1)" timestamp="1577349912216">
@@ -319,14 +291,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="699" y="170" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1577416641761" />
-    <state x="279" y="26" key="CommitChangelistDialog2" timestamp="1577445062895">
+    <state x="279" y="26" key="CommitChangelistDialog2" timestamp="1577445215362">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="279" y="26" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1577445062895" />
-    <state x="792" y="182" key="FileChooserDialogImpl" timestamp="1577444975030">
+    <state x="279" y="26" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1577445215362" />
+    <state x="792" y="182" key="FileChooserDialogImpl" timestamp="1577445282012">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="792" y="182" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1577444975030" />
+    <state x="792" y="182" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1577445282012" />
     <state width="725" height="256" key="GridCell.Tab.0.bottom" timestamp="1577444835551">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -367,10 +339,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="272" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1577441242720" />
-    <state x="316" y="165" key="Vcs.Push.Dialog.v2" timestamp="1577445067443">
+    <state x="316" y="165" key="Vcs.Push.Dialog.v2" timestamp="1577445219115">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="316" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1577445067443" />
+    <state x="316" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1577445219115" />
     <state x="500" y="245" key="com.intellij.ide.util.TipDialog" timestamp="1577441166916">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -379,6 +351,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="323" y="156" width="889" height="566" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834@0.0.1536.834" timestamp="1577441586738" />
+    <state x="603" y="211" key="git4idea.merge.GitPullDialog" timestamp="1577445241253">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="603" y="211" key="git4idea.merge.GitPullDialog/0.0.1536.834@0.0.1536.834" timestamp="1577445241253" />
     <state x="94" y="126" key="new project wizard" timestamp="1577437414207">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
