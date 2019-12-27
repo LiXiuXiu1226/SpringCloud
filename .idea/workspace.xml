@@ -77,7 +77,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -221,7 +221,7 @@
       <workItem from="1577440414140" duration="284000" />
       <workItem from="1577440768900" duration="245000" />
       <workItem from="1577441168260" duration="4369000" />
-      <workItem from="1577445709749" duration="257000" />
+      <workItem from="1577445709749" duration="572000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交SpringCloud">
       <created>1577359645200</created>
@@ -265,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577445518348</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="第2次提交SpringCloud2">
+      <created>1577445985382</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1577445985382</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,6 +280,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../Spring_cloud02" />
+    </ignored-roots>
     <MESSAGE value="第一次提交SpringCloud" />
     <MESSAGE value="第一次提交SpringCloud2" />
     <MESSAGE value="第2次提交SpringCloud2" />
@@ -303,14 +313,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="699" y="170" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1577416641761" />
-    <state x="279" y="26" key="CommitChangelistDialog2" timestamp="1577445517645">
+    <state x="279" y="26" key="CommitChangelistDialog2" timestamp="1577445984561">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="279" y="26" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1577445517645" />
-    <state x="792" y="182" key="FileChooserDialogImpl" timestamp="1577445888321">
+    <state x="279" y="26" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1577445984561" />
+    <state x="792" y="182" key="FileChooserDialogImpl" timestamp="1577446322310">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="792" y="182" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1577445888321" />
+    <state x="792" y="182" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1577446322310" />
     <state width="509" height="212" key="GridCell.Tab.0.bottom" timestamp="1577445587785">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -347,14 +357,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="499" y="78" key="Maven.ArtifactSearchDialog/0.0.1536.834@0.0.1536.834" timestamp="1577416203959" />
-    <state x="272" y="62" key="SettingsEditor" timestamp="1577441242720">
+    <state x="272" y="62" key="SettingsEditor" timestamp="1577446294228">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="272" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1577441242720" />
-    <state x="316" y="165" key="Vcs.Push.Dialog.v2" timestamp="1577445522774">
+    <state x="272" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1577446294228" />
+    <state x="316" y="165" key="Vcs.Push.Dialog.v2" timestamp="1577445989535">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="316" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1577445522774" />
+    <state x="316" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1577445989535" />
     <state x="500" y="245" key="com.intellij.ide.util.TipDialog" timestamp="1577445867990">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -363,10 +373,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="323" y="156" width="889" height="566" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834@0.0.1536.834" timestamp="1577441586738" />
-    <state x="603" y="211" key="git4idea.merge.GitPullDialog" timestamp="1577445502114">
+    <state x="603" y="211" key="git4idea.merge.GitPullDialog" timestamp="1577446341506">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="603" y="211" key="git4idea.merge.GitPullDialog/0.0.1536.834@0.0.1536.834" timestamp="1577445502114" />
+    <state x="603" y="211" key="git4idea.merge.GitPullDialog/0.0.1536.834@0.0.1536.834" timestamp="1577446341506" />
     <state x="94" y="126" key="new project wizard" timestamp="1577437414207">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
